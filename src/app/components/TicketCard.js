@@ -1,5 +1,5 @@
-import Link from 'next/link'
-import StatusBadge from './StatusBadge'
+import Link from 'next/link';
+import StatusBadge from './StatusBadge';
 
 export default function TicketCard({ ticket }) {
   return (
